@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b138130f.css",
+    "main.js": "/static/js/main.0819c1f2.js",
+    "static/js/787.b3d32539.chunk.js": "/static/js/787.b3d32539.chunk.js",
+    "static/media/pexels-cottonbro-4480505.jpg": "/static/media/pexels-cottonbro-4480505.28e80d92454549ff1538.jpg",
+    "static/media/pexels-andrea-piacquadio-3817785.jpg": "/static/media/pexels-andrea-piacquadio-3817785.ff9d75bdcc88962406ec.jpg",
+    "static/media/pexels-pixabay-162553.jpg": "/static/media/pexels-pixabay-162553.de76c3ae47b3fb06f9e3.jpg",
+    "static/media/Honda.jpg": "/static/media/Honda.245cc102629e0c64a666.jpg",
+    "static/media/bestBrand.png": "/static/media/bestBrand.295644ce369aa8980742.png",
+    "static/media/nokia.jpg": "/static/media/nokia.3a3e6466ac48bdab1c2e.jpg",
+    "static/media/huawei.jpg": "/static/media/huawei.fa32c3e893d4345305a1.jpg",
+    "static/media/bajaj.jpg": "/static/media/bajaj.a134a668070ab87d7a44.jpg",
+    "static/media/kawasaki.jpg": "/static/media/kawasaki.3199b1ff087eb778bf87.jpg",
+    "static/media/Instagram.jpg": "/static/media/Instagram.c589999c1eaafa394ee4.jpg",
+    "static/media/Suzuki.png": "/static/media/Suzuki.5a599207a4bc98a9c86d.png",
+    "index.html": "/index.html",
+    "main.b138130f.css.map": "/static/css/main.b138130f.css.map",
+    "main.0819c1f2.js.map": "/static/js/main.0819c1f2.js.map",
+    "787.b3d32539.chunk.js.map": "/static/js/787.b3d32539.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b138130f.css",
+    "static/js/main.0819c1f2.js"
+  ]
+}
